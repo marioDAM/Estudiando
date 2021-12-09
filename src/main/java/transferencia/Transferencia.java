@@ -22,6 +22,7 @@ public class Transferencia {
     }
 
     public static void main(String[] args) {
+        //Dejamos por defecto un main, para ver que el programa funciona
         float x = transferir(300, 200, "652145895");
 
     }
